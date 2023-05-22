@@ -1,0 +1,44 @@
+html {
+    background: rgb(167, 219, 219);
+}
+
+.cookie {
+    background: rgb(130, 85, 44);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+.chocolate-chip {
+    display: inline-block;
+    background: rgb(13, 9, 7);
+    width: .5rem;
+    height: .5rem;
+    border-radius: 50%;
+}
+
+.a {
+    margin-top: .35rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-bottom: 0rem;
+}
+
+.b {
+    margin-top: 0rem;
+    margin-left: 3rem;
+    margin-right: 2rem;
+    margin-bottom: 0rem;
+}
+
+.c {
+    margin-top: .15rem;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 0rem;
+}
+
+.d {
+    margin-top: .25rem;
+    margin-left: 2.8rem;
+}
