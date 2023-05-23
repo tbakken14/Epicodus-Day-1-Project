@@ -1,5 +1,5 @@
 html {
-    background: rgb(167, 219, 219);
+    background-image: linear-gradient(to right, red, blue);
 }
 
 .cookie {
